@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Visionary - AI Concept Generator</h1>
-   <p>padding-bottom: 300px;</p>
+   <p></p>
 </div>
 
 <div align="center">
