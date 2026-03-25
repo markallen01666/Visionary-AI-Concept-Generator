@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Visionary - AI Concept Generator</h1>
-   <p></p>
+   <p>&nbsp;</p>
 </div>
 
 <div align="center">
