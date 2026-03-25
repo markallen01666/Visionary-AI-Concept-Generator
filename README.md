@@ -9,12 +9,12 @@
 </div>
 
 <div align="center">
-   <img width="1200" height="475" alt="Editorial" src="editorial spread screenshot.png" />
+   <img width="1200" height="600" alt="Editorial" src="editorial spread screenshot.png" />
    <p>&nbsp;</p>
 </div>
 
 <div align="center">
-   <img width="1200" height="475" alt="Campaign" src="campaign vision screenshot.png" />
+   <img width="1200" height="600" alt="Campaign" src="campaign vision screenshot.png" />
    <p>&nbsp;</p>
 </div>
 
