@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-   <img width="1200" height="475" alt="Start Page" src="start page screenshot.png" />
+   <img width="1200" height="600" alt="Start Page" src="start page screenshot.png" />
    <p>&nbsp;</p>
 </div>
 
