@@ -1,4 +1,4 @@
-<div align="center" padding-bottom=25>
+<div align="center" style="padding-bottom:25">
    <h1>Visionary - AI Concept Generator</h1>
 </div>
 
